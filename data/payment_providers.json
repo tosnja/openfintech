@@ -15773,5 +15773,20 @@
     "payout_method" : [
       "vcreditos"
     ]
+  },
+  {
+    "code": "raiffeisenbank",
+    "vendor": "raiffeisenbank",
+    "name": {
+      "en": "Raiffeisen Bank",
+      "ru": "Райфайзен Банк",
+      "uk": "Райфайзен Банк"
+    },
+    "payment_method": [
+      "raiffeisenbank"
+    ],
+    "payout_method": [
+
+    ]
   }
 ]
